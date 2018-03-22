@@ -102,15 +102,6 @@ header h2{
     border: 1px solid black;
     display: block;
 }
-#box1{
-    width: 59px;
-}
-#box2{
-    width: 106px;
-}
-#box3{
-    width: 69px;
-}
 #workWrapper .work:nth-child(2){
     margin-left: 30px;
     margin-right: 30px;
